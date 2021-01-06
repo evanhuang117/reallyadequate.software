@@ -1,0 +1,359 @@
+# Webalizer V2.21-02 Incremental Data - 01/03/2021 23:11:51
+2021 1 3 23 11 51
+201 112 37 10 6 27 2668137 112 32 0
+16 10 61 1 3
+77 55 1056185 17 38 19
+10 5 27008 4 9 4
+114 52 1584944 16 65 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+20 18 522618 4
+2 0 952 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 2 11915 4
+17 9 94339 12
+45 36 867418 17
+0 0 0 0
+10 9 261145 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+10 9 261308 2
+9 6 32428 9
+12 8 83783 6
+61 5 267591 52
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 3331 1
+10 9 261309 2
+0
+0
+0
+112
+0
+0
+0
+0
+0
+0
+0
+33
+0
+0
+0
+0
+0
+0
+0
+0
+0
+56
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/img/intro-bg.jpg
+0 8 0 710392 0 0
+/
+0 35 0 171100 31 2
+/contact.html
+0 1 0 1333 0 0
+/assets/js/grayscale.js
+0 11 0 17929 0 0
+/assets/fonts/font-awesome.min.css
+0 8 0 60612 0 0
+/assets/bootstrap/js/bootstrap.min.js
+0 11 0 251258 0 0
+/assets/bootstrap/css/bootstrap.min.css
+0 8 0 202272 0 0
+/assets/js/jquery.min.js
+0 11 0 350089 0 0
+/assets/fonts/fontawesome-webfont.woff2
+0 8 0 625952 0 0
+/assets/js/bs-init.js
+0 11 0 13120 0 0
+# End Of Table - urls
+# -sites- (monthly)
+54.36.227.167
+0 9 9 260650 1 1609497221
+/
+38.145.91.240
+0 2 2 23038 0 0
+-
+196.18.225.96
+0 2 1 5653 1 1609490499
+/
+38.145.88.157
+0 6 5 158805 1 1609687968
+/
+159.65.27.112
+0 4 2 11915 1 1609570641
+/
+181.215.95.121
+0 3 3 24177 0 0
+-
+181.214.183.87
+0 2 2 79465 0 0
+-
+34.223.43.91
+0 10 9 261309 1 1609632218
+/
+35.243.23.202
+0 2 1 5654 1 1609485860
+/
+204.13.201.139
+0 1 0 495 1 1609485859
+/
+106.75.52.91
+0 7 5 23980 1 1609697899
+/
+54.213.131.96
+0 3 2 10809 1 1609517386
+/
+208.87.237.140
+0 6 5 69864 1 1609485867
+/
+38.145.110.245
+0 2 2 79465 0 0
+-
+205.169.39.45
+0 10 9 261310 1 1609489641
+/
+181.215.121.226
+0 5 5 158311 1 1609634399
+/
+45.40.122.64
+0 1 1 702 0 0
+-
+191.96.46.10
+0 6 5 127912 1 1609715511
+/
+95.49.208.199
+0 6 3 14893 2 1609489947
+/
+64.246.165.50
+0 2 0 952 1 1609550928
+/
+45.40.122.106
+0 2 1 78821 1 1609634398
+/
+205.237.94.51
+0 2 2 53932 0 0
+-
+52.32.150.2
+0 1 0 439 1 1609489815
+/
+54.191.196.180
+0 3 2 10809 1 1609691265
+/
+72.13.62.25
+0 6 3 10914 1 1609522531
+/
+38.145.99.84
+0 5 4 110238 1 1609661463
+/
+154.13.1.142
+0 54 0 243611 1 1609697235
+-
+54.186.90.188
+0 3 2 10810 1 1609604501
+/
+138.246.253.24
+0 1 1 3331 1 1609627151
+/
+115.89.74.126
+0 6 5 72869 1 1609522543
+/
+135.148.32.176
+0 1 0 458 1 1609487586
+/
+46.183.221.195
+0 2 1 5495 1 1609489850
+/
+95.49.208.200
+0 2 1 7761 2 1609489946
+/
+204.101.161.19
+0 1 0 495 1 1609497220
+/
+181.215.206.81
+0 4 4 150369 0 0
+-
+205.169.39.247
+0 16 14 321885 1 1609489529
+/
+74.125.212.207
+0 3 1 6541 1 1609485665
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+38.145.91.240
+0 2 2 23038 0 0
+-
+38.145.88.157
+0 6 5 158805 1 1609687968
+/
+181.215.95.121
+0 3 3 24177 0 0
+-
+181.214.183.87
+0 2 2 79465 0 0
+-
+34.223.43.91
+0 10 9 261309 1 1609632218
+/
+106.75.52.91
+0 7 5 23980 1 1609697899
+/
+38.145.110.245
+0 2 2 79465 0 0
+-
+181.215.121.226
+0 5 5 158311 1 1609634399
+/
+45.40.122.64
+0 1 1 702 0 0
+-
+191.96.46.10
+0 6 5 127912 1 1609715511
+/
+45.40.122.106
+0 2 1 78821 1 1609634398
+/
+205.237.94.51
+0 2 2 53932 0 0
+-
+54.191.196.180
+0 3 2 10809 1 1609691265
+/
+38.145.99.84
+0 5 4 110238 1 1609661463
+/
+154.13.1.142
+0 54 0 243611 1 1609697235
+-
+181.215.206.81
+0 4 4 150369 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://reallyadequate.software
+0 2
+- (Direct Request)
+0 125
+https://reallyadequate.software/assets/fonts/font-awesome.min.css
+0 8
+http://www.bing.com
+0 1
+http://reallyadequate.software/
+0 1
+https://reallyadequate.software/
+0 64
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 1
+Java/1.8.0_171
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 40
+Mozilla/5.0 (compatible; ips-agent)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4325)
+0 10
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:70.0) Gecko/20100101 Firefox/70.0
+0 2
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US) AppEngine-Google; (+http://code.google.com/appengine; appid: s~viru
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:33.0) Gecko/20100101 Firefox/33.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 1
+Wget/1.17.1 (linux-gnu)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 54
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/64.0.3
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

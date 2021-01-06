@@ -1,0 +1,46 @@
+:root {
+  --blue: #a3c5ec;
+  --light-gray: #a1a1a1;
+  --dark-gray: #6f6c6f;
+  --darker-gray: #3a3a3a;
+}
+
+.bg-light {
+  background-color: var(--light-gray)!important;
+  /*background-color: #8d2dc2!important;*/
+}
+
+.bg-dark {
+  /*background-color: var(--dark-gray)!important;*/
+  background-color: var(--darker-gray)!important;
+  filter: blur(0px);
+  opacity: 1;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: var(--light-gray);
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: var(--light);
+}
+
+.clean-block.clean-hero h2 {
+  color: var(--darker-gray);
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: var(--darker-gray);
+}
+
+.clean-block.clean-hero:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: currentColor;
+  z-index: 0;
+}
+
