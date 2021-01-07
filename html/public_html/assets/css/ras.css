@@ -59,6 +59,7 @@
 
 .card-title {
   color: var(--darker-gray);
+  font-weight: 500;
 }
 
 .card-hr {
