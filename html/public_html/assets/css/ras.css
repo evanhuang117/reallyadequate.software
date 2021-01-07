@@ -48,3 +48,21 @@
   z-index: 0;
 }
 
+.card-subtitle, .card-text:last-child {
+  color: var(--purple);
+  opacity: 0.8;
+}
+
+.icon-social-instagram, .icon-social-github, .icon-social-linkedin {
+  color: var(--purple);
+}
+
+.card-title {
+  color: var(--darker-gray);
+}
+
+.card-hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
